@@ -1423,4 +1423,5 @@
   </project>
 
   <project path="vendor/lineage" name="movq/android_vendor_lineage" remote="movq" />
+  <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" remote="lineage" />
 </manifest>
