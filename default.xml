@@ -110,7 +110,7 @@
   <project path="device/google/redbull-sepolicy" name="device/google/redbull-sepolicy" groups="device,redbull" />
   <project path="device/google/redfin" name="device/google/redfin" groups="device,redfin" />
   <project path="device/google/redfin-sepolicy" name="device/google/redfin-sepolicy" groups="device,redfin" />
-  <project path="device/google/taimen" name="LineageOS/android_device_google_taimen" groups="device,taimen" remote="lineage" />
+  <project path="device/google/taimen" name="LineageOS/android_device_google_taimen" groups="device,taimen" remote="lineage" revision="lineage-21" />
   <project path="device/google/wahoo" name="movq/android_device_google_wahoo" groups="device,wahoo" remote="movq" />
   <project path="device/google/wahoo-kernel" name="LineageOS/android_kernel_google_wahoo" groups="device,wahoo" remote="lineage" revision="lineage-21" clone-depth="1" />
   <project path="device/google/tangorpro" name="device/google/tangorpro" groups="device,tangorpro" />
