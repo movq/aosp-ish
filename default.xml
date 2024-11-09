@@ -1422,6 +1422,7 @@
     <copyfile src="lk_inc.mk" dest="lk_inc.mk" />
   </project>
 
+  <project path="hardware/lineage/compat" name="movq/android_hardware_lineage_compat" remote="movq" />
   <project path="vendor/lineage" name="movq/android_vendor_lineage" remote="movq" />
   <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" remote="lineage" />
 </manifest>
